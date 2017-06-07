@@ -85,5 +85,5 @@ git push origin --tags        //一次性推送全部尚未推送到远程的本
 git tag -d   v1.0            //删除本地 tag
 git push origin :refs/tags/v1.0   //删除远程 tag
 ```
-
-
+##git checkout . && git clean -xdf
+清除本地所做修改

@@ -40,7 +40,7 @@ cb926e7 HEAD@{3}: commit (initial): wrote a readme file
 ## `git rm`           //删除文件
 ## `git remote add origin git@github.com:leif-lyy/test.git`  
 > 将本地的 git 代码仓库添加到 github 远程仓库 
-> 需要先登录？？
+> origin 为该远程仓库的别名
 
 ## `git clone git@github.com:leif-lyy/test.git`   //从远程仓库克隆
 ## `git branch dev` //创建 dev 分支
